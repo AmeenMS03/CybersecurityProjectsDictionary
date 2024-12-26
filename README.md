@@ -50,13 +50,14 @@ Whether you're a beginner or an experienced professional, this repository will h
 #### Go
 - Advanced NMAP Scanner - [Link1](https://github.com/marco-lancini/goscan)
 
-### C#
+#### C#
 - Homemade Antivrirus - [Link1](https://github.com/vanyasem/InfANT)
 
-### JavaScript
+#### JavaScript
 - Password Strength Checker - [Link1](https://github.com/nowsecure/owasp-password-strength-test)
 
-#### Building a Kali Linux Hacking Lab
+#### Others
+- Build Your EH Lab - [Link1](https://www.youtube.com/watch?v=mvsiuLzpx2E&ab_channel=NetworkChuck)
 
 
 ---
@@ -79,7 +80,7 @@ For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 If this repository has helped you, consider supporting me:
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ameensidds)
 
 
 
