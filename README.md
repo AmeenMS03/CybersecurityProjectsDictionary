@@ -91,7 +91,7 @@ We welcome contributions from the community! Here's how you can contribute:
 
 If this repository has helped you, consider supporting me:
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ameensidds)
+[![Buy me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ameensidds)
 
 
 
