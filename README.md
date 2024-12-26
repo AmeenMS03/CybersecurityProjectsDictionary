@@ -7,6 +7,20 @@ A curated collection of cybersecurity projects categorized by tools and technolo
 ---
 ## 📚 Table of Contents
 
+- [📖 Introduction](#-introduction)
+- [🛠️ Projects by Tools/Technologies](#️-projects-by-toolstechnologies)
+  - [Python Projects](#python-projects)
+  - [Raspberry Pi](#raspberry-pi)
+  - [Yara](#yara)
+  - [Go](#go)
+  - [C#](#c)
+  - [JavaScript](#javascript)
+  - [Others](#others)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support](#-support)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [📜 License](#-license)
+
 ---
 ## 📖 Introduction
 
@@ -71,9 +85,6 @@ We welcome contributions from the community! Here's how you can contribute:
    Add a new project link in the appropriate category in the README file.
 3. **Submit a Pull Request**:  
    Open a pull request explaining your additions.
-
-For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
-
 
 ---
 ## ☕ Support
